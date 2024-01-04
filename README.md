@@ -13,5 +13,9 @@ Alicia Hlavac
 
 ## Citations
 
+* Choosing color palettes#. Choosing color palettes - seaborn 0.13.1 documentation. (n.d.). https://seaborn.pydata.org/tutorial/color_palettes.html 
+* FAQs – understand your credit score and report. PERSONAL. (2022, December 22). https://www.cibil.com/faq/understand-your-credit-score-and-report#:~:text=Your%20CIBIL%20score%2C%20calculated%20based,%2C%20ranges%20between%20300%2D900. 
+* How to remove space from columns in pandas a data scientists guide. Saturn Cloud Blog. (2023, October 25). https://saturncloud.io/blog/how-to-remove-space-from-columns-in-pandas-a-data-scientists-guide/#:~:text=Using%20the%20str.strip(),column%20names%20or%20column%20values. 
 * Kai. (2023, July 16). Loan-approval-prediction-dataset. Kaggle. https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset 
 * Matplotlib.pyplot.text#. matplotlib.pyplot.text - Matplotlib 3.8.2 documentation. (n.d.). https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.text.html 
+* Pandas.DataFrame.unstack#. pandas.DataFrame.unstack - pandas 2.1.4 documentation. (n.d.). https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.unstack.html 
