@@ -10,6 +10,8 @@ Throughout this project, three models were created to see whether or not a we co
 
 ![2024-02-03](https://github.com/aliciahlavac/Project_4/assets/127240852/b4a41bbb-95b7-4c2f-a6f3-a2a6538ae920)
 
+We can see the model has a high accuracy, and high precision, recall and f1-scores, suggesting that the model is effiective in predicting loan approval status with minimal error rates. The high performance across all metrics suggests the model is well-tuned and robust, making it reliable for predicting loan outcomes based on the dataset's features.
+
 ## Authors
 
 Alicia Hlavac
