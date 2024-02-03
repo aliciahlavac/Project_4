@@ -1,6 +1,6 @@
 # Loan Approval Prediction
 
-Loans are a very important part of financial institutions.  By analyzing loans, decisions can be made to save the institution a lot of money while keeping their customer satisfaction up.  Using a dataset from India, the following questions drove the research for this project:
+Loans are a very important part of financial institutions.  By analyzing loans, decisions can be made to save the institution a lot of money while keeping their customer satisfaction up.  Using a dataset from India (found at https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data), the following questions drove the research for this project:
 * What factors influence loan approval?
 * Does credit history specifically impact the loan approval decision?
 * What role does employment type (self-employed versus non self-employed) play in loan approval?
@@ -8,11 +8,13 @@ Loans are a very important part of financial institutions.  By analyzing loans, 
 
 # Results
 
-Throughout this project, three models were created to see whether or not a we could predict loan approval determination with high accuracy; a logistic regression model, a decision tree model, and a random forest model were all created to see which one most accurately predicted what we wanted.  We found out that the tuned random forest model was most accurate, with statistics as follows:
+Throughout this project, three models were created to see whether or not a we could predict loan approval determination with high accuracy; a logistic regression model, a decision tree model, and a random forest model.  We found out that the tuned random forest model was most accurate, with statistics as follows:
 
 ![2024-02-03](https://github.com/aliciahlavac/Project_4/assets/127240852/b4a41bbb-95b7-4c2f-a6f3-a2a6538ae920)
 
 We can see the model has a high accuracy, and high precision, recall and f1-scores, suggesting that the model is effiective in predicting loan approval status with minimal error rates. The high performance across all metrics suggests the model is well-tuned and robust, making it reliable for predicting loan outcomes based on the dataset's features.
+
+In order to delve into the logistic regression model, decision tree model, and deeper into the random forest model (including the tuned random forest model), please see [Main.ipynb](
 
 ## Authors
 
