@@ -8,7 +8,7 @@ Loans are a very important part of financial institutions.  By analyzing loans, 
 
 # Results
 
-Throughout this project, three models were created to see whether or not a we could predict loan approval determination with high accuracy; a logistic regression model, a decision tree model, and a random forest model.  We found out that the tuned random forest model was most accurate, with statistics as follows:
+Throughout this project, three models were created in [Main.ipynb](https://github.com/aliciahlavac/Project_4/blob/main/Main.ipynb) to see whether or not a we could predict loan approval determination with high accuracy; a logistic regression model, a decision tree model, and a random forest model.  We found out that the tuned random forest model was most accurate, with statistics as follows:
 
 ![2024-02-03](https://github.com/aliciahlavac/Project_4/assets/127240852/b4a41bbb-95b7-4c2f-a6f3-a2a6538ae920)
 
