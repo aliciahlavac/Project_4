@@ -22,7 +22,7 @@ We found out that the tuned random forest model was most accurate, with statisti
 
 We can see the random forest model has a high accuracy, and high precision, recall and f1-scores, suggesting that the model is effiective in predicting loan approval status with minimal error rates. The high performance across all metrics suggests the model is well-tuned and robust, making it reliable for predicting loan outcomes based on the dataset's features.
 
-In order to delve into the logistic regression model, decision tree model, and deeper into the random forest model (including the tuned random forest model), please see [Main.ipynb](https://github.com/aliciahlavac/Project_4/blob/main/Main.ipynb).
+In order to delve into the logistic regression model, decision tree model, and deeper into the random forest model (including the tuned random forest model), as well as finding the answers to the other research questions, please see [Main.ipynb](https://github.com/aliciahlavac/Project_4/blob/main/Main.ipynb).
 
 ## Authors
 
